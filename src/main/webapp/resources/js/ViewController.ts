@@ -25,7 +25,7 @@ var chessprofile = angular.module("chessprofile");
 /**
  * The abstract implementation of a View controller
  *
- * @author gubancs
+ * @author gubancs - gabor.kokeny@topclouders.com
  * @version 1.0.0
  */
 chessprofile.controller("ViewController", function ($scope, $http, $location) {
