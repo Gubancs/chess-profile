@@ -61,7 +61,7 @@ chessprofile.controller("ViewController", function ($scope, $http, $location) {
     $scope.init = function () {
         console.debug("ViewController:init invoked with arguments : ", {preloadUrl: $scope.preloadUrl});
 
-        // call to api
+        // call to api, test
         $http({method: 'POST', url: $scope.preloadUrl})
             .success($scope.onPreloadSuccess).error($scope.onPreloadFailure);
     }
