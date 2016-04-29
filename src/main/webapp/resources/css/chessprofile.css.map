@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;;;;;;;;;;;GAcG;AAKH,UAAW;EACT,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,gBAAgB,EANG,OAAO;;AAS5B,KAAM;EACJ,KAAK,EAAE,aAAa",
+"sources": ["chessprofile.scss"],
+"names": [],
+"file": "chessprofile.css"
+}
